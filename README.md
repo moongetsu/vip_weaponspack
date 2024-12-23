@@ -22,7 +22,7 @@
 - [.NiGHT](https://github.com/Night757) - Original plugin (inspired from his VIP Weapons plugin)
 
 ## Requirements 🛠️
-- Sourcemod 1.11 or higher
+- Sourcemod 1.10 or higher
 
 ## Installation 👀
 1. Download the newest [release](https://github.com/moongetsu/vip_weaponspack/releases)
