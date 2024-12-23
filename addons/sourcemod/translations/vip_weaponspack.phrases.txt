@@ -1,0 +1,33 @@
+"Phrases"
+{
+    "Feature Not Available"
+    {
+        "en" "{darkred}Moon{default} - This feature is not {darkred}available{default} right now."
+    }
+
+    "Must Be In Buy Zone"
+    {
+        "en" "{darkred}Moon{default} - You must be in {darkred}buy zone{default} to use this feature."
+    }
+
+    "Already Used Menu"
+    {
+        "en" "{darkred}Moon{default} - You have already {darkred}used{default} your weapon selection this round."
+    }
+
+    "No Pistol Rounds"
+    {
+        "en" "{darkred}Moon{default} - Cannot use {darkred}VIP Weapons Pack{default} in {darkred}pistol rounds{default}."
+    }
+
+    "Menu Title"
+    {
+        "en" " ★ Weapons Pack Menu ★"
+    }
+
+    "Weapon Choice"
+    {
+        "#format" "{1:s}"
+        "en" "<font color='#FF0000'>Moon</font> - You chose <font color='#FF0000'>{1}</font>"
+    }
+}
