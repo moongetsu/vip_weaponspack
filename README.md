@@ -19,14 +19,16 @@
 </p>
 
 ## Credits 📚
-- [.NiGHT](https://github.com/Night757) - Original plugin (inspired from his VIP Weapons plugin)
+- [.NiGHT](https://github.com/Night757) - Original plugin (inspired from his VIP Weapons plugin).
 
 ## Requirements 🛠️
-- Sourcemod 1.10 or higher
+- [Sourcemod 1.10](https://sourcemod.net/downloads.php?branch=1.10-dev&all=1) or higher (I recommend using [Sourcemod 1.11](https://sourcemod.net/downloads.php?branch=1.11-dev&all=1)).
+- [VIP_Core by R1KO](https://github.com/R1KO/VIP-Core)
 
 ## Installation 👀
-1. Download the newest [release](https://github.com/moongetsu/vip_weaponspack/releases)
+1. Download the newest [release](https://github.com/moongetsu/vip_weaponspack/releases).
 2. Everything is drag & drop, so I think you can do it!
+3. Go in `addons/sourcemod/data/vip/cfg/groups.ini` and add the following line at the : `"Weapons Pack" = "1"`.
 
 ### Configuring the plugin 🧐
 - After installing the plugin, you can modify the translations in `addons/sourcemod/translations/vip_weaponspack.phrases.txt`.
