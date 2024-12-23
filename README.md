@@ -33,28 +33,27 @@
 - You can also modify the weapons list in `addons/sourcemod/scripting/VIP_WeaponsPack.sp`.
 
 ## Supported colors 🤝
-This plugin is using [multicolors](https://github.com/Bara/Multi-Colors) by Bara, so you can use the colors from here.
+This plugin is using [multicolors](https://github.com/Bara/Multi-Colors) by Bara, so you can use the colors from here in your translations.
 ```
-Colors list:
-- {default}
-- {darkred}
-- {green}
-- {lightgreen}
-- {red}
-- {blue}
-- {olive}
-- {lime}
-- {lightred}
-- {purple}
-- {grey}
-- {yellow}
-- {orange}
-- {bluegrey}
-- {lightblue}
-- {darkblue}
-- {grey2}
-- {orchid}
-- {lightred2}
+- {default} - Default color
+- {darkred} - Dark red
+- {green} - Green
+- {lightgreen} - Light green
+- {red} - Red
+- {blue} - Blue
+- {olive} - Olive
+- {lime} - Lime
+- {lightred} - Light red
+- {purple} - Purple
+- {grey} - Grey
+- {yellow} - Yellow
+- {orange} - Orange
+- {bluegrey} - Blue grey
+- {lightblue} - Light blue
+- {darkblue} - Dark blue
+- {grey2} - Grey 2
+- {orchid} - Orchid
+- {lightred2} - Light red 2
 ```
 
 ### Creating A Pull Request 😃
