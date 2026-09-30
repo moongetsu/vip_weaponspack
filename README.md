@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> ### 🚨 Repository Moved to GitLab
+> This repository has officially migrated to **GitLab** and is now archived on GitHub for historical reference.
+>
+> 📦 **Active Development & Releases**: [https://gitlab.com/moongetsu/vip-weaponspack](https://gitlab.com/moongetsu/vip-weaponspack)
+
 <p align="center">
   <a href="https://github.com/moongetsu">
     <img src="https://cdn.moongetsu.ro/GitHub/GithubHeader00.png" alt="GithubHeader" width="100%" height="100%">
